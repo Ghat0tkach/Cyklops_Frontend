@@ -2,11 +2,20 @@
 
 Cyklops is an intelligent conversational agent that provides video/image-to-text capabilities. It utilizes the FastAPI framework along with the open-source LLaVA model for efficient image-to-caption processing. This repo contains the frontend of Cyklops based on Next JS . For backend , visit [Cyklops-Backend](https://github.com/Ghat0tkach/Cyklops_Backend)
 
+
+## Demo Video
+https://github.com/Ghat0tkach/Cyklops_Frontend/assets/59855919/5c11b75a-3a59-40e9-850d-6991a0b8166d
+
+
+
+
 ## Getting Started
 First , install the dependencies using
 ```bash
 npm install
 ```
+
+
 
 Second , make sure to add LLaVA API and Backend Endpoint in the [api file](https://github.com/Ghat0tkach/Cyklops_Frontend/blob/main/app/api/GetSummary.js)
 ```javascript
